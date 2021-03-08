@@ -1,0 +1,24 @@
+body
+{
+ 
+    background-image: url('d5.jpeg');
+    background-repeat: repeat;
+    background-attachment: fixed center;
+    background-size: cover;
+    
+    
+}
+	p{
+		font-size:20;
+		text-align:left;
+		margin-left:550px;
+		margin-right:50px;
+		font-family:"stencil";
+
+	}
+	h1
+	{
+		font-size:30;
+		margin-left:550px;
+	}
+	

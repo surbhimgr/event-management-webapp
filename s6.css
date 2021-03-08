@@ -1,0 +1,29 @@
+body
+{
+ 
+    background-image:url('f1.jpg');
+    background-attachment: fixed center;
+    background-size: cover;
+    
+}
+dt
+{
+	text-align:left;
+	font-size:40;
+	font-family: "broadway";
+	margin-top:20px;
+	margin-left:20px;
+	
+	
+	}
+	p{
+		font-size:20;
+		text-align:left;
+        margin-right:750px;
+		margin-left:20px;
+		font-family:"cooper black";
+		
+
+
+	}
+	

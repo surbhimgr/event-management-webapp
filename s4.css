@@ -1,0 +1,43 @@
+body
+{
+ 
+    background-image: url('p.jpeg');
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1
+{
+	text-align:left;
+	font-size:30;
+	font-family: "ravie";
+	margin-top:60px;
+	
+	
+	}
+	p{
+		font-size:20;
+		text-align:left;
+		margin-right:550px;
+			font-family: "ravie";
+	}
+	dd{
+		font-size:20;
+		text-align:right;
+		margin-left:550px;
+		margin-right:50px;
+			font-family: "ravie";
+		
+
+	}
+	
+	h2
+	{
+		font-family:"ravie";
+		text-align:left;
+		font-size:30;
+		margin-top:400px;
+				margin-left:550px;
+		
+	}
+	
